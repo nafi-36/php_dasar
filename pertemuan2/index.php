@@ -32,7 +32,7 @@ echo false; // boolean false akan menghasilkan kosongan
 <body>
     <!-- PHP di dalam HTML -->
     <h1>Halo, Selamat Datang <?php echo "Zia"; ?></h1>
-    <p><?php echo "ini adalah paragraf"; ?></p>
+    <p><?php echo "abcdefghijklmnopqrstuvwxyz"; ?></p>
     <!-- HTML di dalam PHP -->
     <?php 
         echo "<h1>Halo, Selamat Datang Zia</h1>"
